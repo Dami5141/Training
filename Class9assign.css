@@ -1,0 +1,65 @@
+
+body{
+    height: 300px;
+    width: 100%;
+    background-image: url(./image/Wedding\ pix.webp);
+    background-repeat: no-repeat;
+    background-position:fixed;
+    background-size: cover;
+   
+}
+#mother{
+
+    height: 200px;
+    width: 100%;
+}
+#y{
+ height: 150%;   
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around; 
+
+
+}
+ul li{
+display:inline-block;
+
+
+
+}
+
+#x{
+ height: 150%;   
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly; 
+ 
+}
+#a{
+    margin: 10%;
+  
+   
+} 
+#b{
+    order: 1px solid white;
+    background-color: white;
+    margin: 10%;
+    padding: 3%; 
+    
+} 
+
+    
+
+#z{
+    border: 3px solid white;
+    color: black;
+   border-width: 10%;
+}
+.c{
+    border: 1px solid grey;
+    height: 10%;
+    width: 40px;
+    background-color: grey;
+}

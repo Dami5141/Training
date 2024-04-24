@@ -1,0 +1,8 @@
+body{
+    height: 300px;
+    width: 100%;
+    background-image: url(./image/wed\ pix.jpeg);
+    background-repeat: no-repeat;
+    background-position:fixed;
+    background-size: cover;
+}
